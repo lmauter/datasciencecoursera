@@ -1,2 +1,2 @@
 # datasciencecoursera
-Course requirement
+Course requirement for Data Science Toolbox
